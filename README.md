@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-douglas-7b5096210/)](https://www.linkedin.com/in/bruno-douglas-7b5096210/)
 [![Gmail Badge](https://img.shields.io/badge/-douglasbruno240@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasbruno240@gmail.com)](douglasbruno240@gmail.com)
 
-<img align="right" alt="Programer" src="./"C:\Users\Home\Downloads\BrunoDouglas123-master\hacker.png""  width="300px"/>
+<img align="right" alt="Programer" src="./hacker.png""  width="300px"/>
 
 ## 
 
